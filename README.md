@@ -23,7 +23,7 @@ npx serve . -p 5000
 
 Then open [http://localhost:5000](http://localhost:5000).
 
-### Otheriwse it's here : WA Chat Viewer
+### Otheriwse it's here : [WA Chat Viewer](https://whatsappviewer.vercel.app/)
 
 
 ## WhatsApp export formats supported
