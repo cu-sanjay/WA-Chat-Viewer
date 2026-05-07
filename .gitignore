@@ -1,0 +1,6 @@
+node_modules/
+.cache/
+.config/
+.local/
+.upm/
+package-lock.json
